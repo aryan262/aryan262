@@ -1,17 +1,15 @@
 # 💫 About Me:
-I am Abhinav Shakya, a BTech student at IIIT Bhagalpur. Motivated MERN stack developer and proficient in CPP. Passionate about web development, with a strong problem-solving mindset and a background in competitive coding. Eager to learn and stay updated on industry trends.
+I'm Aryan Panchal, a BTech student at IIIT Bhagalpur, deeply passionate about web development. As a motivated MERN stack developer with a strong command of C++, I thrive on solving complex problems and continuously challenging myself through competitive coding. Eager to innovate and make meaningful contributions to the field of technology.
 <br>
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-shakya-7b0785228/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sentinelese_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanpanchal2609/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanpanchal0926)
 
-1655 rating in CodeChef (3\*)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhinav106823)  
-KINGT AT LEETCODE (1851*)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/abhinav_shakya)  
-Solved more than 500+ problems on LeetCode
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhinavshakya1608)
+1652 rating in CodeChef (3\*)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/nikolas12)  
+KNIGHT AT LEETCODE (1880*)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/nikolas_1/) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -21,7 +19,7 @@ Solved more than 500+ problems on LeetCode
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -29,25 +27,6 @@ Solved more than 500+ problems on LeetCode
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-# 📂 Projects:
-1. **VastuVilla**
-   - [GitHub Repository](https://github.com/Abhi1608nav/MERNRealEstateProject.git)
-   - [Live Demo](https://mern-estate-hiwu.onrender.com/)
-   
-2. **FilmBuff**
-   - [GitHub Repository](https://github.com/Abhi1608nav/FilmBuff.git)
-   - [Live Demo](https://film-buff.vercel.app/)
-   
-3. **WeatherApp**
-   - [GitHub Repository](https://github.com/Abhi1608nav/weatherProject.git)
-   - [Live Demo](https://weather-app21312.netlify.app/)
-
-# 🛠️ Design Problems:
-1. **ParkingLot (LLD problem)**
-   - [GitHub Repository](https://github.com/Abhi1608nav/DesignProblems1_ParkingLotSystem.git)
-   
-2. **ElevatorSystem (LLD problem)**
-   - [GitHub Repository](https://github.com/Abhi1608nav/DesignProblem2_ElevatorSystem.git)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abhi1608nav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -61,6 +40,6 @@ Solved more than 500+ problems on LeetCode
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhi1608nav&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aryan262&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
